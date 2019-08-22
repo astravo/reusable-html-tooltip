@@ -1,8 +1,2 @@
 
-console.log("It's working...");
-
-let test = '';
-
-function testFunc () {
-  var test;
-}
+console.log('It\'s working...');
