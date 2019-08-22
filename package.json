@@ -1,0 +1,27 @@
+{
+  "name": "reusable-html-tooltip",
+  "version": "1.0.0",
+  "description": "A reusable tooltip that uses JS and CSS and data attributes to display HTML content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astravo/reusable-html-tooltip.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astravo/reusable-html-tooltip/issues"
+  },
+  "homepage": "https://github.com/astravo/reusable-html-tooltip#readme",
+  "devDependencies": {
+    "eslint": "^6.2.1",
+    "eslint-config-standard": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
